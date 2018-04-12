@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 # @Author: scumath
 # @Date:   2018-04-12 10:18:58
-# @fileName: testTimer.py
+# @fileName: timer.py
+
 
 
 """
